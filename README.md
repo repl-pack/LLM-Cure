@@ -1,4 +1,5 @@
-# LLM-Cure
+# Replication Package for LLM-Cure Study
+This repository contains the replication package for the study on feature assignment, feature extraction, and improvement suggestions for mobile applications using LLM-Cure. Below are the details of the repository contents and instructions for usage.
 
 ## Abstract
 LLM-Cure, a novel approach powered by large lan guage models (LLMs) to automatically generate suggestions for
@@ -7,10 +8,6 @@ identifies and categorizes high-level features within reviews usingits LLM capab
 a user review, LLM-Cure curates highly rated features in competing apps related to the complaint and proposes potential improvements tailored to the target application.
 
 ![Overall Approach](docs/approach.jpg)
-
-# Replication Package for LLM-Cure Study
-
-This repository contains the replication package for the study on feature assignment, feature extraction, and improvement suggestions for mobile applications using LLM-Cure. Below are the details of the repository contents and instructions for usage.
 
 ## Repository Structure
 
