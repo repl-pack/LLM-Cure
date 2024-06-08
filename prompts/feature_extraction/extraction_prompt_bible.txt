@@ -1,0 +1,9 @@
+Below are user reviews, each separated by newline escape belonging to Bible mobile applications. Provide the list of the top 14 distinct high-level features presented in all the reviews with a brief meaning of each feature.
+High-level features refer to the main functionalities (e.g., "Bible version" or "Guided prayer") and the main characteristics (e.g., "In-app ads" and "User experience") of an app.
+For example, the two fine-grained features, "Audio pausing" and "Audio quality," belong to the same high-level feature, "Audio feature."
+
+Below is an example of user reviews with the corresponding high-level feature.
+Review: "I like that you can bookmark verses and still recover them across devices."
+1. Bookmark Option: feature represents the possibility of marking specific points in the audio for easy retrieval.
+
+{User reviews}

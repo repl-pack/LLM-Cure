@@ -1,0 +1,35 @@
+Assign only one high-level feature from the list below to each user review.
+Assign the category "Other" if you can't find a corresponding category from the list. Never assign a feature that is not from the list. 
+
+User reviews:
+{user_reviews}
+
+List of 14 high-level features and their meaning:
+1. Bible versions: The ability to switch between different translations of the Bible.
+2. Daily verses: The feature that provides a daily verse or passage for meditation and reflection.
+3. Reading plans: Pre-selected plans that guide users through reading the Bible in a year or other time frames.
+4. Social features: The ability to share verses or reflections with friends or join a community of users.
+5. Highlighting and bookmarking: The ability to mark specific verses or passages for future reference.
+6. Search function: The ability to search for specific verses or topics in the Bible.
+7. Audio feature: The option to listen to the Bible being read aloud.
+8. Customization: The ability to personalize the app with different themes or font sizes.
+9. Offline access: The ability to download portions of the Bible for access without an internet connection.
+10. Devotionals: Pre-written devotionals on various topics.
+11. User experience: The overall design and functionality of the app, including ease of use and navigation.
+12. In-app purchases: The option to purchase additional features or content within the app. 
+13. Notifications: The feature that sends reminders or prompts to read or reflect on the Bible.
+14. Comparison feature: The option to compare different translations of the same verse side by side.
+
+Examples:
+Review 1: "Please include other versions of the Amharic Bible"
+Output: Review 1, "Please include other versions of the Amharic Bible", Bible versions
+Review 2: "Everything I'm looking for in a bible app! Glad I can highlight, bookmark and make little notes to myself without having to write in my physical one" 
+Output: Review 2, "Everything I'm looking for in a bible app! Glad I can highlight, bookmark and make little notes to myself without having to write in my physical one", Highlighting and bookmarking
+Review 3: "I use it primarily as a listening tool when driving at night before bed and as a quick refresher tool. The drama audio versions make me feel like I am immersed into the scene of reading."
+Output: Review 3, "I use it primarily as a listening tool when driving at night before bed and as a quick refresher tool. The drama audio versions make me feel like I am immersed into the scene of reading", Audio feature
+Review 4: "Can you add a comments section for verse of the day? I think it would be cool to see other people share their thoughts!"
+Output: Review 4, "Can you add a comments section for verse of the day? I think it would be cool to see other people share their thoughts!", Social features
+Review 5: "Love the many study plans available"
+Output: Review 5, "Love the many study plans available", Reading plans
+
+Provide the output as CSV content: Review#, "Review text", Assigned Feature. Do not provide any explanations or notes. Do not include the word "feature".

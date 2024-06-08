@@ -1,0 +1,9 @@
+Below are user reviews, each separated by newline escape belonging to SMS mobile applications. Provide the list of the top 14 distinct high-level features presented in all the reviews with a brief meaning of each feature.
+High-level features refer to the main functionalities (e.g., "Location connectivity" or "Scam identification") and the main characteristics (e.g., "In-app ads" and "UI appearance") of an app.
+For example, the two fine-grained features, "Good network" and "network operator", belong to the same high-level feature "Location connectivity."
+
+Below is an example of user reviews with the corresponding high-level feature.
+Review: "Gives error every time I sign in from an unrecognized device."
+1. Account Authentication:  feature represents the app's ability to identify accounts and authenticate them to the users.
+
+{User reviews}

@@ -1,0 +1,9 @@
+Below are user reviews, each separated by newline escape belonging to Recipe cooking mobile applications. Provide the list of the top 14 distinct high-level features presented in all the reviews with a brief meaning of each feature.
+High-level features refer to the main functionalities (e.g., "Diet Plan Tracking" or "Recipe Diversity") and the main characteristics (e.g., "UI appearance" and "App stability") of an app.
+For example, the two fine-grained features, "High provider prices" and "Cable paid options", belong to the same high-level feature "Subscription service."
+
+Below is an example of user reviews with the corresponding high-level feature.
+Review: "I love that it syncs with my Fitbit."
+1. Fitness Tracker: feature represents the possiblity to track the fitness activities in the app.
+
+{User reviews}

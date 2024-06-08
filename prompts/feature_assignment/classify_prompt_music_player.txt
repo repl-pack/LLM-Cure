@@ -1,0 +1,35 @@
+Assign only one high-level feature from the list below to each user review.
+Assign the category "Other" if you can't find a corresponding category from the list. Never assign a feature that is not from the list. 
+
+User reviews:
+{user_reviews}
+
+List of 14 high-level features and their meaning:
+1. Playlist Management: the app's features for creating, editing, and organizing playlists.
+2. Lyrics Integration: the app's ability to display song lyrics in real-time or download them for offline use.
+3. Equalizer and Sound Adjustment: the app's options for customizing sound quality, including equalizer presets and bass/treble adjustment.
+4. Ad-Free Experience: the app's option to remove ads, either through in-app purchases or separate unlocker apps.
+5. Search: The app's ability to allow users to search for a specific song.
+6. Volume leveler: A feature that adjusts the volume of all songs to a common level.
+7. Shuffle: The app's ability to shuffle songs in a playlist or library.
+8. Sleep Timer: the app's option to automatically stop playback after a set amount of time.
+9. Sound quality: The overall sound quality of the app, including volume and bass.
+10. User interface: The app's design and layout, including the ability to customize the theme.
+11. Notifications: The app's ability to send notifications, which can be useful or intrusive depending on the user's preference.
+12. Offline Mode: feature allows users to download songs for offline playback.
+13. Chromecast/AirPlay Support: the app's compatibility with Chromecast or AirPlay devices for wireless streaming.
+14. Download: The app's ability to download music for offline listening.
+
+Examples:
+Review 1: "good streaming app for chromecast audio straight out of the box"
+Output: Review 1, "good streaming app for chromecast audio straight out of the box", Chromecast/AirPlay Support
+Review 2: "Great selection of videos but the app crashes almost every time it tries to go to the next video in my playlist" 
+Output: Review 2, "Great selection of videos but the app crashes almost every time it tries to go to the next video in my playlist", Playlist Management
+Review 3: "I was looking for a sound equalizer/music app that actually works with my JBL E55Bt headphones to fix the lack of bass over the bluetooth connection and customize the sound in general. I found this app"
+Output: Review 3, "I was looking for a sound equalizer/music app that actually works with my JBL E55Bt headphones to fix the lack of bass over the bluetooth connection and customize the sound in general. I found this app", Equalizer and Sound Adjustment
+Review 4: "Wish everytime I picked a song that it would continue to shuffle afterwards instead of going to recent tracks"
+Output: Review 4, "Wish everytime I picked a song that it would continue to shuffle afterwards instead of going to recent tracks", Shuffle
+Review 5: "When I buy it transaction happend properly money debited but cann t show the download link."
+Output: Review 5, "When I buy it transaction happend properly money debited but cann t show the download link.", Download
+
+Provide the output as CSV content: Review#, "Review text", Assigned Feature. Do not provide any explanations or notes. Do not include the word "feature".

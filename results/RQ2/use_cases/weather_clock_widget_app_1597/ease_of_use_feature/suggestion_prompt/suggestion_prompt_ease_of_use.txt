@@ -1,0 +1,107 @@
+You are provided with a user review containing a complain about the Ease of Use feature of a weather mobile applications.
+
+Using the below list of positive user reviews about the same "Ease of Use" feature found in competitor apps user reviews, suggest 3 enhancements to address the highlighted user complain.
+
+User review containing complain about the Ease of Use feature:
+Widget won't update over time it keeps showing same weather and same TIME until I tap on it and open weather app. So it's useless for me as I use it primary for time widget.
+
+List of positive user reviews from competitive apps about the Ease of Use feature:
+
+WEATHER APP. DOESN'T ALWAYS REFRESH THE WEATHER FORCAST UPON THE TIME YOU SET IT FOR. HAVE TO DO IT MANUALLY WHICH REALLY BITES. SINCE UPDATE I HAVE TOO REFRESH THE WEATHER MANUALLY.
+I've used weatherbug since 1997 on every computer and device I've owned. It has everything you need in a timely manner. Forecasts are clear and concise. Interface isn't cluttered. Pollen count and spark lightning watch are great features. Some features are unnecessary but can be easily ignored. All in all my favorite go to for weather. **5-10-15 Latest update....why? Don't fix something if it's not broken. **11-8-16 No recent update to app...just asked me to rate. Since last remark there's been a few tweaks and everything is working good.
+I use weather bug all the time like anything its not perfect but nothing is. Compared to all of the others I have tried it works the best. I highly recommend it.
+Please get rid of the blurry refresh icon. Make it clear. Maybe some more options for clock fonts. It is a great weather widget clock app so far. Edit: The clock is not synced or getting updated to match the phone's internal clock it always display a different time unless I manually click the sync button. Please fix.
+The weather portion and the search bar work great; however the clock does NOT auto update. I have to manually update the clock to get it to the correct time. Please fix.
+Clock doesn't update weather doesn't update battery % doesn't update. For that matter everything stopped updating suddenly today. Will keep it for a day or two and if nothing changes will uninstall
+I check the weather several times a day seems to be changing the forecast all the time.
+My weather bug widget is always updated with my weather information.
+Love the app awesome weather presentation and attractive Widgets but the clock in the widget doesn't keep real time you need to press the refresh button for the time to update. This can be annoying as it is a habit to just look at the clock and expect it to be right.
+This is by far my fav weather app and all was working perfect untill today. The time on the widget is not updating for some reason.
+(is that despite or because of updates?)Not connecting with location to bring up the weather - never used to happen. Still like it better than others.
+Simple to use and pretty accurate (well it is the weather). Works flawlessly. No problems. *update* still works great. Have tried other weather apps and this one remains my preferred source for weather.
+Very easy to use! Always updating when the weather is changing so U know exactly what is happening outside..
+Don't care for the format. I want local forecast and updates to have first priority. Not have to look for them. It's been a few months since I wrote a review. I have gotten a little more used to this app. I still wish it didn't open up to weekend update and then you have to shut that off and find your local radar/forecast. I do like the map. But still feel it could use a redesign..
+App works fine but the widgets never update automatically. It shows the temp for several hours ago and I have to open the widget for it to refresh and show the current temperature.
+Like the app as its very up to date with regards to the weather of my locations i set but cant get the transparent clock on my home screen. Only appears as a normal app on screen and must go and click on it every time i want to check for weather and date details. How can i fix this?
+Got this app just for the widget and it looks good. Just wish I could refresh the weather from the widget on the home screen instead of keeping tracking on so I could save battery.
+I would like a way to show seconds on the widget I tried to do new years count down and had no way to know when the countdown started. Other then that it is the best weather and clock app I have ever used even got my girlfriend to use it.
+I love WeatherBug. Through the years every time I change phones I give other weather apps a try but always go back to WeatherBug for the great easy to use interface.
+So couple of issues with the widget: 1. Weather data does not update automatically. 2. For the clock+weather widget - there is a 9 sec lag between the system time and the time shown on the widget. Why is that - any solutions that I am not aware of? Great app otherwise.
+Hey phone needed a weather widget.Here go.It works.To much ads with it. but free so what is. Guess think really going click bs ads? An yeah my colors won't change either.Find better widget later .This one has to much unneeded stuff.Dew point an some other useless items.No live radar
+Would be 5 if the time on the widget would automatically update. It is actually very annoying and some TIMES (ha get it?) inconvenient that it doesn't update. Everything else works great. Hopefully you can resolve this issue sooner than later.
+Every time you have to click on clock  for time update /does not display correct / real present time / although after clicking on clock you get correct real time .otherwise deserve 5 stars  so one star is pending if you solve the problem. Please rectify this.
+It's full of features fast & with a great user-friendly look... The only downside is the widget simply not updating the temperature automatically even if I set it to refresh every 15 minutes  unlike SONY's new weather app
+The time and weather is not updating on the home screen widget
+Widget is not working properly. It is lagging even on my 4 GB RAM mobile Note 5. Two star raised because it's widget is better than accuweather weather 1 weather weather underground. I compared 50 times with my thermometer it's forecast is nearest/accurate. Should say best in my knowledge. Still needs improvement.
+I have used Weather Bug for years and love it. With every smartphone one of the first apps I download is WeatherBug. They need an update button so you can refresh quickly for real time storms. To many times at 10 pm for example it will say it's Sunny outside. Well it was like two hours ago.
+This weather app works just fine always seems accurate and looks great on my Note 4. But this is the only one that I use (out of 6) that constantly prompts to 'tap to continue updates'. Why would you not want a weather app to not continue updates? Just a very unnecessary step.
+Looks great but today noticed the time isn't keeping up sometimes will be 10 minutes behind... Other than that can't complain truly is the best weather application
+So this is definitely the best update yet. Love that the temperature stays in the info bar. It opens to the weather page instead of the management screen. Kudos to this one!
+As accurate as any other weather app but this one looks great and is easy to use but won't change for daylight savings time. Bit annoying tbh would think the app would take time updates from the net. Daylight Saving Time bug finally fixed in latest update. Cheers Dev's!! At least you guys actually listen to your users :-)
+Would love to have a manual refresh button on the notification. Otherwise best lightweight weather app out there. Themes maybe?
+Previous comments here are easily fixed. In settings you can turn on or off status bar (persistent notification) and weather alerts will show up you click on it an it opens the app. There are 3 or 4 different widgets that show varying ammounts of weather information. If you use follow me you don't need to have your GPS on  It does occasionally get stuck in the widget remove it then re-add it to your screen to fix this
+Sometimes it doesn't change weather until you refresh it
+Does what it's supposed to do display current weather condition in my location. Simple app to use and nice simple icons for weather Status. And mostly doesn't crash android or eat up battery life and no pestering ads.
+Easy to use and very helpful. And the weather alerts are perfectly timed and tell me what I need to know when I'm on the go. Thanks WeatherBug!
+The only annoying this is that when it updates it has to make you click through an acknowledgement that it's updated and until you do that it doesn't always properly update the temperature or weather.
+Since the latest update the widget hasn't been updating the time properly. Otherwise good.
+At first I really disliked the recent update  but after some time I found all the info and features were still there. Great App  still my favorite weather app by far!
+I like checking the weather every time.
+I haven't found a weather widget yet that works 100 percent of the time but this one so far has worked most of the time and has been reasonably accurate. Update 06/14/16: This widget keeps getting better. It tracks your location well and is easy to use.
+I'be been using Weather Bug for a number of years a d have had no problems with it. Any updates have have happened without a hitch. I would and have recommended this program.
+Thanks for your quick response! Yes it fixed itself a few days later.  Love this clock/weather widget
+I've been using for years as my home screen clock weather date and quick links. Easy to read great info available. Shows next alarm and can easily get to alarms from the display. Always the first app to install on my new phone.
+Easily my favorite weather app! I can't reorder any of my content now though after the last update. It takes me to the correct screen but nothing will move at all with the sliders on the left the words...nothing. Help?
+I can't get the weather widgets onto my screen since my last Android phone update. Very sad because I loved using them. The widget is apparently added to my screen but it's invisible.
+Since upgrading from my HTC to an S7 I very much missed my HTC clock and weather. I have tried quite a few other options and like this the best except for one thing... When you click on the time instead of bring up the clock to set alarms it brings up this app. Very very annoying. Wish they would fix this as then I would have given it 5 stars!
+The UI is very user friendly. Weather forecast is accurate most times. Weather alerts are always current. This is a good WEATHER APP!
+Doesn't quite know when the day has changed from the main screen to the hourly forecast and updates the location when IT feels like it. Apart from that it's perfect.
+I've got new phone (Redmi Pro 4 Prime) and after many tries I think this is the best transparent weather app. Thing is on this phone it doesn't keep updating the clock  every time it shows a passed hour time even I set the 15 min update time. Please help me to make the right set to do so. Thank you! Regards
+This is one of the best weather apps I've seen. The only problem it have is that when you hit the time it should take you to clock but it doesn't. Hope you fix it.
+When I got my new phone I installed The Weather Channel first before any other app. It was a new version then what my old Galaxy had and I must admit I had to get used to all the changes. One month later I'm zipping thru it and luvin' it!
+I've tried others but this one is very easy to read the forecast and has news available. So I always come back to the weather channel.
+Update: most weather widgets make us confortable with a cercle refresh button. But since this works I will give it a 5. Thanks. Old feedback: Needs a refresh button on the widget. Than I will change to 5 stars. Thanks
+I like that the temp is always there at a glance and it's simple to get an hourly forecast.Hate the ads that pop up and wish they didn't.
+it's easy to navigate for info including forecast details and radar nice backgrounds. biggest problem is that the widget and temp status don't automatically update/refresh.
+Some of the new changes are not helpful. I too have to wait for data to show up for my forecast. The storm tracking circles on the radar can be turned off but the next you are in the app they are back. I would like a widget with the time. I use another weather widget since it has the time too.
+I really like this app and I love the look of the widget. But the time has not been working correctly for months. Sometimes it matches the time on the phone but most of the time it doesn't. I'd hope the new update would fix it but it still doesn't keep the proper time.
+Good app that I've enjoyed for a while. With the last update though the widget started showing an hourly forecast instead of daily and I can't figure out how to change that back to daily.
+This is the best weather app I've found yet. It has & does everything I need it to. However I am having only one issue. The time on the widget is not staying up to date with my phone's actual time. How can this be fixed?
+Good job. Newest update improved the weather interface speed and now it feels right. The thing that bugs me is the lack of swipe left/right gesture in it.
+Don't like changes. There is no longer a refresh option. There is an icon at top tool bar. The temp doesn't stay current. You have to go to the app and press it & then it changes. Very frustrating want the current temp to change on its own. I miss that pics of my city & the change of night & day. I hate the changes. It is still the best weather app.
+For the life of me I can't figure out how to switch the widget from showing the daily forecast to showing the hourly one on my home screen. It all of a sudden changed to daily after a couple years of using it and I did not mess with any of the settings. Help?
+Easy to use and gives you a view of the weather at a glance. Still has a few bugs but overall it works well.
+I have been going through all the different apps for weather and ended up uninstalling all of them. But this one is great since all I have to do is tap the little widget and the info pops up. And since the widget is small and translucent it doesn't get in the way of my screen saver.
+Favorite weather app. Like the you just scroll down for all info no tabs or swiping left/right. Its a good looker too with nice local pics of the area its reporting on. Never any performance issues.
+I really loved this app until the recent update. Now it doesn't automatically update the current weather information. I have to manually go to it for it to show the current temperature conditions etc.
+But it would be nice if the data from the last update would not disappear just because the app is not connected to the internet. In other words don't be so quick to erase the weather data from the screen.
+Various widget options in different sizes one Touch on the widget easily changes the city without needing to open the application. Like the Option of widget displaying no time which i don't need.
+When I use the widgets they don't work all the time to get in for weather reports. I think if that would be better I'd like this site even better.
+Opens quickly and provides all you need. Some of the other weather apps overdo it with fancy graphics that just consume space and power and take time to load.
+I love having it on my home screen telling me the time and weather. really good app over all.
+I like being able to see current weather on my home screen at a glance anytime. I can open the app to get more detail and there is a great deal available everything from wind to moon phases and forecasts.
+This was a great widget but now the time does not update unless I click on it and then close the pop-up window. * UPDATED ** I found the problem is with redmi 3 phones they have problems refreshing widgets.
+My phone has a widget like this and it worked great for a while but now it refuses to update and I can never get current weather cause it says weak signal something or another. This app is very simple and almost just like I but the main interface is very pretty and makes me feel almost futuristic.
+I first heard of WeatherBug from Tom Skilling on WGN years ago and have been using it ever since. It's accurate and up to date and easy to use. I also like the weather news feed.
+The interface is clear and straight forward yet visually appealing. Very easy to use and gives essential weather data updates daily to notifications bar. Well crafted and accurate. Best weather app I have used which I have tried a lot. Their are ads in free version which annoy some people... But if it is SO annoying  one can easily upgrade to paid version. Anyway great app. I am keeping it.
+The first thing I check to start my day is the weather. I like the widget option  constant info without opening an app. I plan my work schedule around this. Its quick easy and tells me everything I need to know about a location  the forecast is useful.
+I still use one built in to my phone because it has a much nicer widget for my home screen. Whenever i need details though I'll open up weatherbug.
+1 problem. It doesn't update the temperature unless you manually refresh. So you can't just look over at your phone and know the temp.
+Easy to use and keeps me informed to the weather where I am. I would like to see the reported lighting strikes on weather map. Also will be nice to have the mesh network soon. Just in case.
+Beautiful useful app but time and weather does not update until I touch the widget.....
+Simple and clean to use and look at. However for months the lock screen widget just says Weather bug contents hidden . Before it would tell me if it was sunny or not. Now nothing. Am I the only one?!
+This app is the one I have relied on for several years. As a very frequent traveler living full-time in an RV  weather is essential. This app gives you fast access to radar which is updated every 5 minutes and an hourly forecast that is adjusted as needed with all the information I'm looking for. Not full of feature stories. Not focused on a certain location. I get instant access to my weather.
+I like the app better than the weather channel app . Its user friendly . I ll use it till you update it and change it . Then I wont use it any more . Like it the way it is !
+I like all the new features and the UI but my widgets no longer updates. It's stuck on 71 and lightning 10 miles away but it's very sunny and clear blue skies. *** Edit all fixed haven't had any issues
+Great ap. I like the recent updates. AccuWeather ap was my backup but I since deleted it because this ap was better.
+Easy to set up with many nice features. I like having updates at a glance available on my home screen.
+It is very easy to use keeps you up-to-date with accurate information sends you alerts when there is bad weather in your area and has specific graphic details.
+Tried many other weather apps before finding this one. Absolutely the best weather app - My wife and I use it all the time. Simple and very intuitive interface for people who just want a quick glance at forecasts. Bought the pro version to remove ads totally worth it!
+The temperature on my widget has said the same thing for like two weeks. I've tried refreshing it but it doesn't change.
+Wanted a new weather widget because the old one didn't match my home screen at all and looked kinda odd. I saw that GO had this weather app and I thought I'd try it because I use GO Keyboard already and I really like it. This weather app has more widget options plus all the helpful features that I'm used to. Very nice. ^^
+**UPDATED 9/13/16** shortcuts to built-in alarm clock and settings thru hour and minutes display DO NOT WORK even after uninstall/reinstall.. please fix thanks! Awesome widget!!! Love the built - in shortcuts for alarm clock and weather info. Plus fully customizable fonts/displays. DON'T CHANGE A THING!
+They seem to have fixed the severe weather warning issue (or maybe I just turned it off). In any event the only problem I have with the app is that it doesn't refresh my saved locations...but at least now I can manually refresh them - they seem to have fixed that issue too.
+This is an excellent very comprehensive weather app! Very easy to use and provides all of the information I need to know in a very clear format! However since I installed Android 7 the widget only works just after installation. Then it refuses to open the app and has to be reinstalled! I want the widget to see the current temperature on the home screen.
+It is very clear to read and very easy to use all you have to do is scroll down but at the same time it dint look like a boring weather forecast it looks fine and satisfying
+Like the old one better this. One sometimes it takes a couple of times logging in before I can get my weather r go to my rewards point because it says not available. But overall it's the best one I've tried
+

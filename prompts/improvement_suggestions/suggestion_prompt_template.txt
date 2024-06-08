@@ -1,0 +1,9 @@
+You are provided with a user review containing a complain about the {feature} feature of a {app_category} mobile applications.
+
+Using the below list of positive user reviews about the same {feature} feature found in competitor apps user reviews, suggest 3 enhancements to address the highlighted user complain.
+
+User review containing complain about the {feature} feature:
+{user_review_complaint}
+
+List of positive user reviews from competitive apps about the {feature} feature:
+{candidates_user_reviews}

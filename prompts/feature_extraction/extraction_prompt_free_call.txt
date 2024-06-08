@@ -1,0 +1,10 @@
+Below are user reviews, each separated by newline escape belonging to Free Call mobile applications. Provide the list of the top 14 distinct high-level features presented in all the reviews with a brief meaning of each feature.
+High-level features refer to the main functionalities (e.g., "Free Credits service" or "Call service quality") and the main characteristics (e.g., "Privacy" and "User experience") of an app.
+For example, the two fine-grained features, "Great video quality" and "HD video quality," belong to the same high-level feature, "Call service."
+
+Below is an example of user reviews with the corresponding high-level feature.
+Review: "It is excellent service to help you connect with your family and friends intenationally."
+1. International Service: feature represents the possibility of having international calls.
+
+
+{User reviews}

@@ -1,0 +1,35 @@
+Assign only one high-level feature from the list below to each user review.
+Assign the category "Other" if you can't find a corresponding category from the list. Never assign a feature that is not from the list. 
+
+User reviews:
+{user_reviews}
+
+List of 14 high-level features and their meaning:
+1. Device Compatibility: The app's ability to run on various devices and operating systems.
+2. Live streaming: The app's ability to live streaming sports events through the app.
+3. Notifications: The app's ability to send alerts and notifications to users about games, scores, and news.
+4. User interface: The app's design and layout including ease of navigation.
+5. Stability and performance: The app's performance, including general quality, crashes, and freezes.
+6. Ads: The presence and frequency of advertisements in the app.
+7. Customer support: The app's quality and responsiveness of the customer support.
+8. Score updates: The app's ability to provide real-time scores and updates for games.
+9. Video quality: The app's resolution and overall quality of the video streams.
+10. Customization: The app's ability to customize the settings, such as selecting favorite teams or sports.
+11. Subscription service: The app's requirement for a paid subscription to access certain content or features.
+12. Chromecast support: The app's ability to cast content to a TV using Chromecast.
+13. Integration with providers: The app's ability to integrate with other services, such as social media or cable providers.
+14. Sports coverage: The app's variety of types of sports and leagues and coverage of playoffs and blackouts.
+
+Examples:
+Review 1: "I love that Hockey Playoff Nirvana available to be watched."
+Output: Review 1, "I love that Hockey Playoff Nirvana available to be watched", Sports coverage
+Review 2: "The game doesn't play on my tablet." 
+Output: Review 2, "The game doesn't play on my tablet.", Compatibility
+Review 3: "A great app but there are far too many notifications I've tried to turn them off but they're still coming."
+Output: Review 3, "A great app but there are far too many notifications I've tried to turn them off but they're still coming.", Notifications
+Review 4: "Game cut out to a black screen during the Stanley Cup playoffs"
+Output: Review 4, "Game cut out to a black screen during the Stanley Cup playoffs", Sports coverage
+Review 5: "Excellent way to get access to shows when paying high provider prices"
+Output: Review 5, "Excellent way to get access to shows when paying high provider prices", Subscription service
+
+Provide the output as CSV content: Review#, "Review text", Assigned Feature. Do not provide any explanations or notes. Do not include the word "feature".

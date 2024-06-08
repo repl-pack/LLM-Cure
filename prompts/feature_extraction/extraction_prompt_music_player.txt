@@ -1,0 +1,9 @@
+Below are user reviews, each separated by newline escape belonging to Music Player mobile applications. Provide the list of the top 14 distinct high-level features presented in all the reviews with a brief meaning of each feature.
+High-level features refer to the main functionalities (e.g., "Music Download" or "Playlist") and the main characteristics (e.g., "In-app ads" and "UI appearance") of an app.
+For example, the two fine-grained features, "Sound output" and "Poor sound" belong to the same high-level feature "Sound quality."
+
+Below is an example of user reviews with the corresponding high-level feature.
+Review: "I love that I can quickly search for a song by name."
+1. Search: feature represents the app's ability to allow the user to search for a specific song.
+
+{User reviews}
