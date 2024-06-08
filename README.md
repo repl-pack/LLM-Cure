@@ -31,7 +31,7 @@ The `results` directory contains the results of RQ1 and RQ2:
   - Ground truth reviews with the automatically assigned feature label by the LLM.
 
 - **RQ2 Use Case Results**:
-  - Results for two use cases: Weather clock & widget app - suggestions related to "ease of use" and "radar" features.
+  - Results for a use case: Weather clock & widget app - suggestions related to "ease of use" features.
 
 ## Usage
 To replicate the results presented in the study, you will need to follow these steps:
