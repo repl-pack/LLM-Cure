@@ -1,0 +1,42 @@
+You are provided with a user review for mobile applications in this format:
+Review n: the review text
+
+Below is a list of high-level features. A high-level feature represents the functionality or characteristic mentioned in the review.
+For example, a review describing ability to allow the user to search for a specific song corresponds to the high-level "Search functionality". 
+
+High-level features and their meaning:
+1. Music Playback,"The core functionality that allows users to play audio files, including various formats like MP3, FLAC, etc."
+2. Playlist Management,"The ability to create, edit, and manage playlists, allowing users to organize their music according to their preferences."
+3. Search Functionality,"A feature that enables users to search for specific songs, artists, or albums quickly within the app."
+4. User Interface (UI) Design,"The visual layout and design of the app, which affects usability and user experience. A good UI is often intuitive and visually appealing."
+5. Equalizer Settings,"Options that allow users to adjust audio output settings, such as bass, treble, and other sound frequencies to enhance listening experience."
+6. Offline Playback,"The ability to listen to music without an internet connection, which is crucial for users who want to enjoy music on the go."
+7. Ads Management,"The presence or absence of advertisements within the app, which can affect user experience. Some users prefer ad-free experiences, often available through paid versions."
+8. Music Identification,"A feature that allows users to identify songs playing in their environment, often using a database to match audio samples with known tracks."
+9. File Management,"The ability to browse and manage music files stored on the device, including support for various storage locations like internal memory and SD cards."
+10. Lyrics Display,"The option to view lyrics while a song is playing, enhancing the listening experience for users who enjoy singing along."
+11. Background Playback,"The capability to continue playing music while using other apps or when the screen is off, which is essential for multitasking."
+12. Customization Options,"Features that allow users to personalize the app, such as changing themes, backgrounds, or skins to suit their preferences."
+13. Streaming Support,"The ability to stream music from online services or platforms, providing access to a broader range of music without needing to download files."
+14. Notification Controls,"The functionality that allows users to control playback (play; pause; skip) from the notification bar or lock screen making it convenient to manage music without opening the app."
+
+Assign to the user review exactly one high-level feature from the provided 14 features. Use only one feature from the list.
+If the review doesn't fit into any of the above features, assign the value: other
+
+### 
+Below are five examples of user review and their expected output:
+Review 1: "Great selection of videos but the app crashes almost every time it tries to go to the next video in my playlist" 
+Output: Review 1, "Great selection of videos but the app crashes almost every time it tries to go to the next video in my playlist", Playlist Management
+Review 2: "I was looking for a sound equalizer/music app that actually works with my JBL E55Bt headphones to fix the lack of bass over the bluetooth connection and customize the sound in general. I found this app"
+Output: Review 2, "I was looking for a sound equalizer/music app that actually works with my JBL E55Bt headphones to fix the lack of bass over the bluetooth connection and customize the sound in general. I found this app", Equalizer Settings
+Review 3: "Wish everytime I can pick a dark theme"
+Output: Review 3, "Wish everytime I can pick a dark theme", User Interface (UI) Design
+Review 4: "I like how the lyrics are shown real-time"
+Output: Review 4, "I like how the lyrics are shown real-time", Lyrics Display
+### 
+
+The review is:
+{user_reviews}
+
+Provide the output as csv content: Review#, "Review text", Assigned Feature.
+Do not provide any explanations or note. Do not include the word "feature".

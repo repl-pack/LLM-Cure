@@ -1,0 +1,44 @@
+You are provided with a user review for mobile applications in this format:
+Review n: the review text
+
+Below is a list of high-level features. A high-level feature represents the functionality or characteristic mentioned in the review.
+For example, a review describing the "reliable video streams" corresponds to the high-level "Streaming Quality". 
+
+High-level features and their meaning:
+1. Streaming Quality,"Refers to the clarity and stability of the video stream during live broadcasts. Users often complain about buffering, freezing, and low resolution."
+2. User Interface (UI) Design,"The overall look and feel of the app, including navigation ease and layout. Many users express dissatisfaction with recent updates that have made the app harder to navigate."
+3. Content Availability,The range of sports and events available for viewing. Users often mention frustrations with blackouts and the inability to access certain games or channels.
+4. Push Notifications,"Alerts sent to users about game scores, updates, and news. Some users appreciate timely notifications, while others find them excessive or unreliable."
+5. App Stability,"Refers to how often the app crashes or freezes. Many reviews highlight issues with the app crashing frequently, especially during live events."
+6. Device Compatibility,"The ability of the app to function across various devices (phones, tablets, smart TVs). Users report issues with streaming on mobile devices or specific operating systems."
+7. Ad Experience,The frequency and intrusiveness of advertisements within the app. Many users express frustration with excessive ads interrupting their viewing experience.
+8. Live Game Coverage,The ability to watch live sports events as they happen. Users often mention disappointment when they cannot access live games.
+9. Account and Subscription Management,The process of logging in and managing subscriptions to access content. Users report issues with being logged out or needing to re-enter credentials frequently.
+10. Score Updates,The speed and accuracy of score notifications and updates during games. Users expect real-time updates but often report delays.
+11. Search Functionality,"The ability to find specific teams, games, or articles within the app. Users express frustration when they cannot easily locate desired content."
+12. Customer Support,The responsiveness and effectiveness of the app's customer service. Many users report dissatisfaction with the support provided for technical issues.
+13. Social Features,"The ability to interact with other users, such as commenting or sharing content. Some users appreciate community features, while others find them distracting."
+14. Customization Options,"The ability to personalize the app experience, such as selecting favorite teams or sports. Users often desire more control over what content they see."
+
+Assign to the user review exactly one high-level feature from the provided 14 features. Use only one feature from the list.
+If the review doesn't fit into any of the above features, assign the value: other
+
+### 
+Below are five examples of user review and their expected output:
+Review 1: "I love that Hockey Playoff Nirvana available to be watched."
+Output: Review 1, "I love that Hockey Playoff Nirvana available to be watched", Content Availability
+Review 2: "The game doesn't play on my tablet." 
+Output: Review 2, "The game doesn't play on my tablet.", Device Compatibility
+Review 3: "A great app but there are far too many notifications I've tried to turn them off but they're still coming."
+Output: Review 3, "A great app but there are far too many notifications I've tried to turn them off but they're still coming.", Push Notifications
+Review 4: "Game cut out to a black screen during the Stanley Cup playoffs"
+Output: Review 4, "Game cut out to a black screen during the Stanley Cup playoffs",Content Availability
+Review 5: "Excellent way to get access to shows when paying high provider prices"
+Output: Review 5, "Excellent way to get access to shows when paying high provider prices", Account and Subscription Management
+### 
+
+The review is:
+{user_reviews}
+
+Provide the output as csv content: Review#, "Review text", Assigned Feature.
+Do not provide any explanations or note. Do not include the word "feature".

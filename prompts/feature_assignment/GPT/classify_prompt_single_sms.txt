@@ -1,0 +1,39 @@
+You are provided with a user review for mobile applications in this format:
+Review n: the review text
+
+Below is a list of high-level features. A high-level feature represents the functionality or characteristic mentioned in the review.
+For example, a review describing "blocks unwanted spam calls" corresponds to the high-level "Spam Call Blocking". 
+
+User review:
+{user_reviews}
+
+List of 14 high-level features and their meaning:Additional materials such as commentaries, reflections, or study guides that provide context and insights into the scripture being read."
+1. Caller Identification,"The ability of the app to display the name and details of the caller, even if the number is not saved in the user's contacts."
+2. Spam Call Blocking,"A feature that automatically identifies and blocks unwanted or spam calls, helping users avoid nuisance calls."
+3. Message Customization,"The ability to personalize the appearance of messages, including changing colors, themes, and notification tones for individual contacts."
+4. Group Messaging,"The functionality that allows users to send messages to multiple recipients at once, facilitating group conversations."
+5. MMS Support,"The capability to send and receive multimedia messages, including images, videos, and audio files."
+6. Dual SIM Support,"The ability to manage and send messages from multiple SIM cards within the same device, allowing users to choose which SIM to use for each message."
+7. User Interface (UI) Design,"The overall look and feel of the app, including layout, ease of navigation, and aesthetic appeal."
+8. In-app Advertising,"The presence of advertisements within the app, which can affect user experience, especially if they are intrusive."
+9. Notification Management,"The ability to customize how notifications are displayed for incoming messages and calls, including options for sound, vibration, and visual alerts."
+10. Message Scheduling,"A feature that allows users to set a specific time for messages to be sent automatically, useful for reminders or timed communications."
+11. Data Privacy and Security,"The measures taken by the app to protect user data, including how it handles permissions and whether it shares user information with third parties."
+12. Performance and Reliability,"The app's ability to function smoothly without crashes or delays, ensuring that messages are sent and received promptly."
+13. Integration with Other Apps,"The capability to work seamlessly with other applications, such as email or social media, enhancing the overall functionality of the messaging experience."
+14. Customer Support,"The availability and responsiveness of support services for users experiencing issues with the app, including troubleshooting and feature requests."
+
+
+Examples:
+Review 1: "Blocked calls! Love that unsolicited calls can be blocked!"
+Output: Review 1, "Blocked calls! Love that unsolicited calls can be blocked!", Spam Call Blocking
+Review 2: "There is no location shown!" 
+Output: Review 2, "There is no location shown!", Caller Identification
+Review 3: "I like that I can message multiple contacts at once."
+Output: Review 3, "I like that I can message multiple contacts at once.", Group messaging
+Review 4: "I can't send messages from the second SIM."
+Output: Review 4, "I can't send messages from the second SIM.", Dual SIM Support
+Review 5: "I cannot connect using my Google account."
+Output: Review 5, "I cannot connect using my Google account.", Account Authentication
+
+Provide the output as CSV content: Review#, "Review text", Assigned Feature. Do not provide any explanations or note. Do not include the word "feature".
